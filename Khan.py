@@ -456,55 +456,7 @@ Output Size
 Whitespace Break
 Trim Whitespace
 Replace white space
-echo " ,ggggggggggg,        ,a8a,       ,gggg,            ,ggg,         ,gggg,   ";
-echo "dP"""88""""""Y8,     ,8" "8,     d8" "8I           dP""8I        d8" "8I   ";
-echo "Yb,  88      `8b     d8   8b     88  ,dP          dP   88        88  ,dP   ";
-echo " `"  88      ,8P     88   88  8888888P"          dP    88     8888888P"    ";
-echo "     88aaaad8P"      88   88     88             ,8'    88        88        ";
-echo "     88""""Y8ba      Y8   8P     88             d88888888        88        ";
-echo "     88      `8b     `8, ,8',aa,_88       __   ,8"     88   ,aa,_88        ";
-echo "     88      ,8P8888  "8,8"dP" "88P      dP"  ,8P      Y8  dP" "88P        ";
-echo "     88_____,d8'`8b,  ,d8b,Yb,_,d88b,,_  Yb,_,dP       `8b,Yb,_,d88b,,_    ";
-echo "    88888888P"    "Y88P" "Y8"Y8P"  "Y88888"Y8P"         `Y8 "Y8P"  "Y88888 ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "           ,ggg, ,ggg,        gg ,ggg, ,ggg,_,ggg,             ,ggg,       ";
-echo "          dP""8IdP""Y8b       88dP""Y8dP""Y88P""Y8b           dP""8I       ";
-echo "         dP   88Yb, `88       88Yb, `88'  `88'  `88          dP   88       ";
-echo "        dP    88 `"  88       88 `"  88    88    88         dP    88       ";
-echo "       ,8'    88     88aaaaaaa88     88    88    88        ,8'    88       ";
-echo "       d88888888     88"""""""88     88    88    88        d88888888       ";
-echo " __   ,8"     88     88       88     88    88    88  __   ,8"     88       ";
-echo "dP"  ,8P      Y8     88       88     88    88    88 dP"  ,8P      Y8       ";
-echo "Yb,_,dP       `8b,   88       Y8,    88    88    Y8,Yb,_,dP       `8b,     ";
-echo " "Y8P"         `Y8   88       `Y8    88    88    `Y8 "Y8P"         `Y8     ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo " ,gggggggggggg,                                                            ";
-echo "dP"""88""""""Y8b,                                                          ";
-echo "Yb,  88       `8b,                                                         ";
-echo " `"  88        `8b                                                         ";
-echo "     88         Y8                                                         ";
-echo "     88         d8                                                         ";
-echo "     88        ,8P                                                         ";
-echo "     88       ,8P'                                                         ";
-echo "     88______,dP'                                                          ";
-echo "    888888888P"                                                            ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                                                                           ";
-echo "                           
-  //   ____  _ _       _       
+//   ____  _ _       _       
 //  |  _ \(_) |     | |      
 //  | |_) |_| | __ _| | ___  
 //  |  _ <| | |/ _` | |/ _ \ 

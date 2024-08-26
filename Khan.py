@@ -501,7 +501,7 @@ class Main:
 			exit()
 		elif pathan in ["1", "01"]:
 			os.system(" https://www.facebook.com/lewany.yam.568?mibextid=JRoKGi")
-			print("")
+			print("https://www.facebook.com/lewany.yam.568?mibextid=JRoKGi")
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜??𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
 			print("")
